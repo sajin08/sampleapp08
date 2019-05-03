@@ -1,0 +1,14 @@
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCoreTest\obj\Debug\netcoreapp2.2\VS2019TestCoreTest.csprojAssemblyReference.cache
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCoreTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCoreTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCoreTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCoreTest\bin\Debug\netcoreapp2.2\VS2019TestCoreTest.deps.json
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCoreTest\bin\Debug\netcoreapp2.2\VS2019TestCoreTest.runtimeconfig.json
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCoreTest\bin\Debug\netcoreapp2.2\VS2019TestCoreTest.runtimeconfig.dev.json
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCoreTest\bin\Debug\netcoreapp2.2\VS2019TestCoreTest.dll
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCoreTest\bin\Debug\netcoreapp2.2\VS2019TestCoreTest.pdb
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCoreTest\obj\Debug\netcoreapp2.2\VS2019TestCoreTest.csproj.CoreCompileInputs.cache
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCoreTest\obj\Debug\netcoreapp2.2\VS2019TestCoreTest.AssemblyInfoInputs.cache
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCoreTest\obj\Debug\netcoreapp2.2\VS2019TestCoreTest.AssemblyInfo.cs
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCoreTest\obj\Debug\netcoreapp2.2\VS2019TestCoreTest.dll
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCoreTest\obj\Debug\netcoreapp2.2\VS2019TestCoreTest.pdb

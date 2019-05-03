@@ -1,0 +1,16 @@
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCore\obj\Debug\netcoreapp2.2\VS2019TestCore.csproj.CoreCompileInputs.cache
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCore\obj\Debug\netcoreapp2.2\VS2019TestCore.AssemblyInfoInputs.cache
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCore\obj\Debug\netcoreapp2.2\VS2019TestCore.AssemblyInfo.cs
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCore\bin\Debug\netcoreapp2.2\VS2019TestCore.deps.json
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCore\bin\Debug\netcoreapp2.2\VS2019TestCore.runtimeconfig.json
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCore\bin\Debug\netcoreapp2.2\VS2019TestCore.runtimeconfig.dev.json
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCore\bin\Debug\netcoreapp2.2\VS2019TestCore.dll
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCore\bin\Debug\netcoreapp2.2\VS2019TestCore.pdb
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCore\obj\Debug\netcoreapp2.2\VS2019TestCore.csprojAssemblyReference.cache
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCore\obj\Debug\netcoreapp2.2\VS2019TestCore.RazorAssemblyInfo.cache
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCore\obj\Debug\netcoreapp2.2\VS2019TestCore.RazorAssemblyInfo.cs
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCore\obj\Debug\netcoreapp2.2\VS2019TestCore.RazorTargetAssemblyInfo.cache
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCore\obj\Debug\netcoreapp2.2\VS2019TestCore.dll
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCore\obj\Debug\netcoreapp2.2\VS2019TestCore.pdb
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCore\bin\Debug\netcoreapp2.2\VS2019TestCore.xml
+E:\My Sample Projects\Core\VS2019TestCore\VS2019TestCore\obj\Debug\netcoreapp2.2\VS2019TestCore.xml
